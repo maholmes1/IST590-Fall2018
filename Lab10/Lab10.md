@@ -8,3 +8,9 @@ allowed him to break into the author's Facebook account and hold them hostage un
 
 3. __
 
+4. This Wired.com story is about Shodan. 
+
+https://www.wired.com/2013/07/shodan-search-engine/
+
+5. __
+
